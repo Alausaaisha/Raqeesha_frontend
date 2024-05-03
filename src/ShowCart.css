@@ -1,0 +1,17 @@
+/* ShowCart.css */
+.cart-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .cart-item img {
+    width: 60px; /* Adjust as necessary */
+    margin-right: 1rem;
+  }
+  
+  .total-price {
+    margin-top: 1rem;
+    font-weight: bold;
+  }
+  
